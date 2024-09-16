@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## [0.23.0] - 2024-99-99
+### Details
+#### Features
+- Support copy files to container ([#730](https://github.com/testcontainers/testcontainers-rs/pull/730))
+
 ## [0.22.0] - 2024-08-30
 ### Details
 #### Bug Fixes
